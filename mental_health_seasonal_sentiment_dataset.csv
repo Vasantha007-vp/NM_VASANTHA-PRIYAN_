@@ -1,0 +1,201 @@
+post_id,subreddit,title,body,created_utc,season,sentiment_score,label
+t3_613988,r/BipolarReddit,Therapy helped me today,The cold weather always brings me down.,2023-05-01 22:25:36,Spring,0.63,positive
+t3_520818,r/BipolarReddit,Struggling with motivation,Maybe things will turn out okay.,2023-08-10 18:40:53,Summer,-0.14,negative
+t3_588603,r/depression,Coping mechanisms that work,No emotions left. Just blank.,2023-09-06 01:16:53,Fall,0.27,positive
+t3_719275,r/depression,Struggling with motivation,Deep breaths and journaling are helping.,2023-10-29 11:59:27,Fall,0.73,positive
+t3_976717,r/depression,I feel overwhelmed today,Maybe things will turn out okay.,2023-03-18 20:48:37,Spring,-0.65,negative
+t3_127936,r/mentalhealth,Therapy helped me today,I can't focus and everything feels heavy.,2023-07-05 13:16:46,Summer,0.1,neutral
+t3_793561,r/SuicideWatch,I feel overwhelmed today,My therapist said something that really stuck with me.,2023-01-15 00:39:01,Winter,-0.74,negative
+t3_366113,r/BipolarReddit,Why is nobody talking to me?,The cold weather always brings me down.,2023-06-29 19:12:31,Summer,-0.48,negative
+t3_498287,r/BipolarReddit,I feel overwhelmed today,The cold weather always brings me down.,2023-03-30 04:20:33,Spring,0.27,positive
+t3_893403,r/Anxiety,Why is nobody talking to me?,I wish someone noticed how quiet I've become.,2023-04-10 12:42:13,Spring,-0.68,negative
+t3_567378,r/depression,Struggling with motivation,Maybe things will turn out okay.,2023-11-06 22:19:31,Fall,0.46,positive
+t3_526446,r/depression,Coping mechanisms that work,"Work meetings make me so anxious, I feel like hiding.",2023-08-26 16:36:42,Summer,0.03,neutral
+t3_136512,r/mentalhealth,Finally had a good day,"Work meetings make me so anxious, I feel like hiding.",2023-01-29 18:03:31,Winter,0.23,positive
+t3_112856,r/mentalhealth,Finally had a good day,Deep breaths and journaling are helping.,2023-07-13 23:48:20,Summer,0.77,positive
+t3_209355,r/BipolarReddit,Struggling with motivation,Deep breaths and journaling are helping.,2023-06-08 02:43:52,Summer,0.42,positive
+t3_440659,r/mentalhealth,Therapy helped me today,Deep breaths and journaling are helping.,2023-09-29 02:38:38,Fall,-0.7,negative
+t3_321695,r/BipolarReddit,Anxious about work,Getting out of bed is a challenge lately.,2023-11-20 04:17:02,Fall,0.15,positive
+t3_566794,r/Anxiety,Finally had a good day,Deep breaths and journaling are helping.,2023-08-13 23:41:03,Summer,0.51,positive
+t3_272281,r/BipolarReddit,Therapy helped me today,I wish someone noticed how quiet I've become.,2023-06-10 23:39:04,Summer,-0.15,negative
+t3_197421,r/Anxiety,Feeling numb,The cold weather always brings me down.,2023-08-16 12:19:24,Summer,0.45,positive
+t3_517826,r/Anxiety,Therapy helped me today,I smiled today for the first time in weeks.,2023-08-13 00:31:36,Summer,0.93,positive
+t3_447452,r/BipolarReddit,Feeling numb,The cold weather always brings me down.,2023-09-08 16:54:48,Fall,0.8,positive
+t3_380041,r/SuicideWatch,Therapy helped me today,Getting out of bed is a challenge lately.,2023-04-04 20:05:42,Spring,-0.31,negative
+t3_611080,r/SuicideWatch,Winter makes it worse,"Work meetings make me so anxious, I feel like hiding.",2023-01-17 07:07:51,Winter,-0.45,negative
+t3_261391,r/SuicideWatch,Feeling numb,I can't focus and everything feels heavy.,2023-06-04 06:16:30,Summer,0.58,positive
+t3_221129,r/SuicideWatch,Therapy helped me today,Getting out of bed is a challenge lately.,2023-08-18 07:03:32,Summer,-0.03,neutral
+t3_263910,r/Anxiety,Finally had a good day,Getting out of bed is a challenge lately.,2023-02-27 06:53:02,Winter,0.36,positive
+t3_552021,r/mentalhealth,Hopeful for the future,Getting out of bed is a challenge lately.,2023-04-13 04:28:41,Spring,0.89,positive
+t3_936076,r/BipolarReddit,Struggling with motivation,I can't focus and everything feels heavy.,2023-04-23 16:01:01,Spring,-0.98,negative
+t3_873784,r/SuicideWatch,Finally had a good day,Getting out of bed is a challenge lately.,2023-07-30 09:12:56,Summer,-0.35,negative
+t3_729163,r/BipolarReddit,I feel overwhelmed today,Maybe things will turn out okay.,2023-10-10 02:49:31,Fall,-0.99,negative
+t3_982927,r/depression,Why is nobody talking to me?,Deep breaths and journaling are helping.,2023-10-15 05:27:13,Fall,0.46,positive
+t3_315658,r/BipolarReddit,Struggling with motivation,Getting out of bed is a challenge lately.,2023-09-22 08:37:28,Fall,-0.23,negative
+t3_312758,r/SuicideWatch,Therapy helped me today,The cold weather always brings me down.,2023-10-21 14:11:29,Fall,-0.25,negative
+t3_526989,r/SuicideWatch,Winter makes it worse,I wish someone noticed how quiet I've become.,2023-08-07 01:07:52,Summer,-0.03,neutral
+t3_937514,r/SuicideWatch,Feeling numb,I smiled today for the first time in weeks.,2023-03-17 20:53:27,Spring,0.74,positive
+t3_178991,r/depression,Anxious about work,Deep breaths and journaling are helping.,2023-12-21 13:44:53,Winter,-0.23,negative
+t3_801742,r/BipolarReddit,Feeling numb,Getting out of bed is a challenge lately.,2023-09-24 03:26:33,Fall,0.93,positive
+t3_174862,r/depression,Finally had a good day,Maybe things will turn out okay.,2023-12-23 01:53:55,Winter,-0.26,negative
+t3_555566,r/BipolarReddit,Finally had a good day,Maybe things will turn out okay.,2023-03-15 05:45:05,Spring,0.9,positive
+t3_652090,r/BipolarReddit,Feeling numb,I can't focus and everything feels heavy.,2023-10-17 07:05:36,Fall,1.0,positive
+t3_151222,r/SuicideWatch,Anxious about work,Deep breaths and journaling are helping.,2023-08-08 01:56:22,Summer,0.38,positive
+t3_280755,r/depression,Why is nobody talking to me?,Maybe things will turn out okay.,2023-05-28 19:22:33,Spring,0.99,positive
+t3_537876,r/Anxiety,Feeling numb,My therapist said something that really stuck with me.,2023-05-30 18:04:42,Spring,0.13,positive
+t3_150766,r/mentalhealth,Winter makes it worse,The cold weather always brings me down.,2023-08-04 10:14:52,Summer,0.29,positive
+t3_172331,r/SuicideWatch,Finally had a good day,No emotions left. Just blank.,2023-05-13 12:54:59,Spring,0.19,positive
+t3_657412,r/depression,Struggling with motivation,Getting out of bed is a challenge lately.,2023-11-02 13:36:57,Fall,0.54,positive
+t3_464587,r/depression,Coping mechanisms that work,Deep breaths and journaling are helping.,2023-06-21 18:07:51,Summer,-0.41,negative
+t3_199691,r/Anxiety,Struggling with motivation,Getting out of bed is a challenge lately.,2023-08-10 08:11:05,Summer,0.43,positive
+t3_392759,r/BipolarReddit,Finally had a good day,No emotions left. Just blank.,2023-03-04 12:47:50,Spring,-0.37,negative
+t3_260208,r/BipolarReddit,Finally had a good day,My therapist said something that really stuck with me.,2023-06-22 22:36:40,Summer,0.18,positive
+t3_451708,r/BipolarReddit,Therapy helped me today,Deep breaths and journaling are helping.,2023-03-29 20:42:44,Spring,0.77,positive
+t3_130736,r/Anxiety,Coping mechanisms that work,The cold weather always brings me down.,2023-06-01 20:25:42,Summer,-0.24,negative
+t3_968913,r/mentalhealth,Winter makes it worse,Getting out of bed is a challenge lately.,2023-08-28 05:25:19,Summer,0.13,positive
+t3_305936,r/Anxiety,Therapy helped me today,The cold weather always brings me down.,2023-11-17 07:53:13,Fall,-0.35,negative
+t3_928672,r/SuicideWatch,Finally had a good day,No emotions left. Just blank.,2023-08-21 11:33:48,Summer,-0.17,negative
+t3_223487,r/Anxiety,Winter makes it worse,"Work meetings make me so anxious, I feel like hiding.",2023-05-24 16:10:42,Spring,-0.11,negative
+t3_349144,r/depression,Hopeful for the future,I can't focus and everything feels heavy.,2023-05-13 04:32:55,Spring,0.31,positive
+t3_665276,r/mentalhealth,Finally had a good day,Maybe things will turn out okay.,2023-08-12 00:39:53,Summer,0.66,positive
+t3_111484,r/SuicideWatch,Feeling numb,"Work meetings make me so anxious, I feel like hiding.",2023-02-08 09:46:38,Winter,-0.3,negative
+t3_571728,r/BipolarReddit,Why is nobody talking to me?,Deep breaths and journaling are helping.,2023-06-10 20:20:00,Summer,0.43,positive
+t3_398288,r/mentalhealth,I feel overwhelmed today,I wish someone noticed how quiet I've become.,2023-09-17 05:53:21,Fall,-0.33,negative
+t3_646230,r/mentalhealth,Coping mechanisms that work,I smiled today for the first time in weeks.,2023-09-17 22:28:42,Fall,0.63,positive
+t3_792313,r/BipolarReddit,Struggling with motivation,No emotions left. Just blank.,2023-04-24 13:43:47,Spring,0.06,neutral
+t3_219372,r/depression,Why is nobody talking to me?,Deep breaths and journaling are helping.,2023-01-08 21:06:43,Winter,0.48,positive
+t3_177500,r/mentalhealth,Therapy helped me today,Deep breaths and journaling are helping.,2023-05-29 12:34:41,Spring,-0.22,negative
+t3_803031,r/SuicideWatch,Why is nobody talking to me?,Deep breaths and journaling are helping.,2023-03-19 02:30:31,Spring,-0.7,negative
+t3_486010,r/mentalhealth,I feel overwhelmed today,Getting out of bed is a challenge lately.,2023-10-27 06:36:22,Fall,0.75,positive
+t3_257734,r/mentalhealth,Anxious about work,Getting out of bed is a challenge lately.,2023-09-02 00:04:03,Fall,-0.06,neutral
+t3_850524,r/SuicideWatch,Feeling numb,"Work meetings make me so anxious, I feel like hiding.",2023-11-03 15:07:21,Fall,0.96,positive
+t3_973068,r/BipolarReddit,Struggling with motivation,Getting out of bed is a challenge lately.,2023-12-26 17:23:05,Winter,0.84,positive
+t3_205510,r/depression,Feeling numb,No emotions left. Just blank.,2023-01-19 01:40:20,Winter,-0.35,negative
+t3_304740,r/BipolarReddit,I feel overwhelmed today,Maybe things will turn out okay.,2023-05-30 19:06:02,Spring,0.58,positive
+t3_458287,r/Anxiety,Struggling with motivation,Maybe things will turn out okay.,2023-12-06 14:01:24,Winter,0.97,positive
+t3_463900,r/depression,I feel overwhelmed today,My therapist said something that really stuck with me.,2023-05-25 01:46:05,Spring,-0.14,negative
+t3_685339,r/BipolarReddit,Hopeful for the future,The cold weather always brings me down.,2023-01-12 07:09:35,Winter,-0.24,negative
+t3_594869,r/mentalhealth,I feel overwhelmed today,Getting out of bed is a challenge lately.,2023-07-01 19:06:49,Summer,-0.98,negative
+t3_423204,r/BipolarReddit,Hopeful for the future,Maybe things will turn out okay.,2023-05-23 04:12:31,Spring,0.57,positive
+t3_753307,r/mentalhealth,I feel overwhelmed today,I can't focus and everything feels heavy.,2023-05-21 05:29:54,Spring,0.45,positive
+t3_940097,r/mentalhealth,Coping mechanisms that work,Deep breaths and journaling are helping.,2023-02-14 11:13:37,Winter,-0.09,neutral
+t3_945203,r/Anxiety,Anxious about work,Maybe things will turn out okay.,2023-03-18 09:22:26,Spring,0.25,positive
+t3_285766,r/Anxiety,Finally had a good day,My therapist said something that really stuck with me.,2023-07-13 06:04:18,Summer,-0.05,neutral
+t3_485715,r/depression,Finally had a good day,"Work meetings make me so anxious, I feel like hiding.",2023-08-12 10:00:49,Summer,0.68,positive
+t3_131146,r/Anxiety,Struggling with motivation,Maybe things will turn out okay.,2023-11-07 03:17:15,Fall,0.59,positive
+t3_335410,r/depression,Hopeful for the future,I smiled today for the first time in weeks.,2023-07-06 16:22:18,Summer,0.91,positive
+t3_246345,r/BipolarReddit,Winter makes it worse,"Work meetings make me so anxious, I feel like hiding.",2023-10-01 22:33:33,Fall,0.36,positive
+t3_618893,r/Anxiety,Anxious about work,Getting out of bed is a challenge lately.,2023-01-14 05:17:18,Winter,0.88,positive
+t3_926710,r/SuicideWatch,Feeling numb,Deep breaths and journaling are helping.,2023-11-15 05:50:34,Fall,0.47,positive
+t3_605008,r/BipolarReddit,Why is nobody talking to me?,I can't focus and everything feels heavy.,2023-05-05 17:31:18,Spring,0.64,positive
+t3_299227,r/BipolarReddit,Anxious about work,Maybe things will turn out okay.,2023-05-28 06:42:07,Spring,-0.11,negative
+t3_126054,r/SuicideWatch,Hopeful for the future,The cold weather always brings me down.,2023-09-20 23:53:50,Fall,-0.76,negative
+t3_898675,r/Anxiety,Finally had a good day,No emotions left. Just blank.,2023-08-08 01:02:18,Summer,0.47,positive
+t3_135328,r/SuicideWatch,Therapy helped me today,Deep breaths and journaling are helping.,2023-08-15 05:01:22,Summer,0.37,positive
+t3_218347,r/SuicideWatch,Feeling numb,The cold weather always brings me down.,2023-01-29 16:04:14,Winter,-0.66,negative
+t3_665623,r/depression,Why is nobody talking to me?,The cold weather always brings me down.,2023-12-26 11:59:00,Winter,0.7,positive
+t3_597509,r/depression,Winter makes it worse,My therapist said something that really stuck with me.,2023-09-14 21:30:09,Fall,-0.89,negative
+t3_992487,r/depression,I feel overwhelmed today,Getting out of bed is a challenge lately.,2023-02-04 04:31:14,Winter,-0.74,negative
+t3_944737,r/BipolarReddit,Anxious about work,I can't focus and everything feels heavy.,2023-11-24 17:47:09,Fall,-0.29,negative
+t3_688372,r/BipolarReddit,Therapy helped me today,"Work meetings make me so anxious, I feel like hiding.",2023-06-24 23:33:55,Summer,0.44,positive
+t3_977462,r/mentalhealth,Hopeful for the future,I wish someone noticed how quiet I've become.,2023-05-02 23:35:54,Spring,-0.84,negative
+t3_246861,r/mentalhealth,Coping mechanisms that work,"Work meetings make me so anxious, I feel like hiding.",2023-05-18 12:20:43,Spring,0.11,positive
+t3_180188,r/BipolarReddit,Why is nobody talking to me?,I can't focus and everything feels heavy.,2023-12-22 05:33:23,Winter,0.91,positive
+t3_856287,r/SuicideWatch,Struggling with motivation,Deep breaths and journaling are helping.,2023-05-30 00:18:21,Spring,-0.74,negative
+t3_465394,r/depression,Struggling with motivation,I can't focus and everything feels heavy.,2023-03-27 15:48:22,Spring,0.81,positive
+t3_817547,r/mentalhealth,Winter makes it worse,I smiled today for the first time in weeks.,2023-07-12 22:40:34,Summer,0.42,positive
+t3_822676,r/depression,Finally had a good day,Getting out of bed is a challenge lately.,2023-09-23 04:45:19,Fall,0.66,positive
+t3_622288,r/mentalhealth,Why is nobody talking to me?,Deep breaths and journaling are helping.,2023-02-11 11:29:37,Winter,0.2,positive
+t3_180005,r/mentalhealth,Why is nobody talking to me?,My therapist said something that really stuck with me.,2023-11-26 09:51:49,Fall,0.84,positive
+t3_271540,r/mentalhealth,Therapy helped me today,The cold weather always brings me down.,2023-05-22 02:32:10,Spring,0.13,positive
+t3_637416,r/mentalhealth,Coping mechanisms that work,Maybe things will turn out okay.,2023-03-22 23:56:58,Spring,-0.24,negative
+t3_200291,r/mentalhealth,Anxious about work,I can't focus and everything feels heavy.,2023-04-30 16:46:17,Spring,0.14,positive
+t3_780120,r/BipolarReddit,Feeling numb,Maybe things will turn out okay.,2023-08-19 13:01:52,Summer,0.02,neutral
+t3_430502,r/Anxiety,Feeling numb,I smiled today for the first time in weeks.,2023-06-03 12:41:47,Summer,0.22,positive
+t3_630947,r/Anxiety,Therapy helped me today,I wish someone noticed how quiet I've become.,2023-06-29 12:19:41,Summer,-0.13,negative
+t3_494718,r/Anxiety,I feel overwhelmed today,I smiled today for the first time in weeks.,2023-07-01 16:49:15,Summer,-0.24,negative
+t3_761444,r/depression,Feeling numb,No emotions left. Just blank.,2023-03-21 10:05:22,Spring,-0.31,negative
+t3_832822,r/BipolarReddit,Coping mechanisms that work,The cold weather always brings me down.,2023-03-13 15:05:16,Spring,-0.21,negative
+t3_408135,r/mentalhealth,Winter makes it worse,I can't focus and everything feels heavy.,2023-06-18 19:32:32,Summer,0.59,positive
+t3_584579,r/BipolarReddit,Hopeful for the future,I can't focus and everything feels heavy.,2023-05-21 14:06:53,Spring,-0.71,negative
+t3_486502,r/mentalhealth,Why is nobody talking to me?,Maybe things will turn out okay.,2023-06-28 06:31:44,Summer,0.28,positive
+t3_843548,r/Anxiety,Hopeful for the future,"Work meetings make me so anxious, I feel like hiding.",2023-04-26 09:31:36,Spring,-0.28,negative
+t3_545835,r/SuicideWatch,Winter makes it worse,My therapist said something that really stuck with me.,2023-02-11 16:15:14,Winter,0.32,positive
+t3_672274,r/SuicideWatch,Finally had a good day,No emotions left. Just blank.,2023-04-16 15:49:14,Spring,-0.19,negative
+t3_298475,r/mentalhealth,Why is nobody talking to me?,The cold weather always brings me down.,2023-06-09 20:30:54,Summer,-0.26,negative
+t3_747159,r/SuicideWatch,Feeling numb,The cold weather always brings me down.,2023-01-27 16:06:16,Winter,-0.27,negative
+t3_571944,r/SuicideWatch,Hopeful for the future,I wish someone noticed how quiet I've become.,2023-08-15 10:40:44,Summer,0.43,positive
+t3_188180,r/Anxiety,Feeling numb,Maybe things will turn out okay.,2023-09-27 22:49:33,Fall,0.97,positive
+t3_569137,r/Anxiety,Anxious about work,Deep breaths and journaling are helping.,2023-03-04 11:36:25,Spring,0.18,positive
+t3_976775,r/SuicideWatch,Finally had a good day,My therapist said something that really stuck with me.,2023-11-17 00:02:16,Fall,-0.96,negative
+t3_330508,r/mentalhealth,Anxious about work,Deep breaths and journaling are helping.,2023-04-08 02:49:09,Spring,0.69,positive
+t3_176048,r/SuicideWatch,Why is nobody talking to me?,No emotions left. Just blank.,2023-06-26 00:57:55,Summer,-0.96,negative
+t3_887838,r/BipolarReddit,Anxious about work,The cold weather always brings me down.,2023-01-14 20:35:07,Winter,0.79,positive
+t3_360870,r/Anxiety,Coping mechanisms that work,My therapist said something that really stuck with me.,2023-11-26 01:34:25,Fall,0.5,positive
+t3_700135,r/BipolarReddit,I feel overwhelmed today,No emotions left. Just blank.,2023-07-19 03:23:30,Summer,-0.71,negative
+t3_522425,r/BipolarReddit,Feeling numb,I can't focus and everything feels heavy.,2023-06-08 19:16:53,Summer,-0.96,negative
+t3_195816,r/depression,Hopeful for the future,Deep breaths and journaling are helping.,2023-11-04 22:12:36,Fall,-0.09,neutral
+t3_199978,r/mentalhealth,Feeling numb,Deep breaths and journaling are helping.,2023-01-06 11:14:40,Winter,0.02,neutral
+t3_985277,r/depression,Winter makes it worse,I wish someone noticed how quiet I've become.,2023-01-23 23:52:20,Winter,0.31,positive
+t3_627855,r/BipolarReddit,Hopeful for the future,I can't focus and everything feels heavy.,2023-03-08 21:24:44,Spring,0.8,positive
+t3_441270,r/mentalhealth,I feel overwhelmed today,I can't focus and everything feels heavy.,2023-05-15 00:40:43,Spring,0.26,positive
+t3_739348,r/SuicideWatch,Feeling numb,Deep breaths and journaling are helping.,2023-05-25 20:19:32,Spring,0.29,positive
+t3_689541,r/depression,Finally had a good day,I smiled today for the first time in weeks.,2023-04-17 11:48:07,Spring,-0.72,negative
+t3_262151,r/mentalhealth,Hopeful for the future,Deep breaths and journaling are helping.,2023-07-02 07:54:13,Summer,0.74,positive
+t3_787668,r/SuicideWatch,Finally had a good day,My therapist said something that really stuck with me.,2023-09-20 23:07:22,Fall,-0.83,negative
+t3_719898,r/Anxiety,Finally had a good day,Deep breaths and journaling are helping.,2023-02-23 14:27:40,Winter,-0.03,neutral
+t3_767260,r/SuicideWatch,Winter makes it worse,The cold weather always brings me down.,2023-06-05 15:17:58,Summer,-0.12,negative
+t3_783211,r/depression,Finally had a good day,I smiled today for the first time in weeks.,2023-08-12 02:32:32,Summer,0.96,positive
+t3_228983,r/mentalhealth,Therapy helped me today,"Work meetings make me so anxious, I feel like hiding.",2023-09-21 11:06:27,Fall,0.58,positive
+t3_722583,r/SuicideWatch,Feeling numb,Maybe things will turn out okay.,2023-12-07 02:51:46,Winter,0.89,positive
+t3_486079,r/depression,Anxious about work,The cold weather always brings me down.,2023-07-29 17:47:29,Summer,-0.46,negative
+t3_357585,r/Anxiety,Therapy helped me today,"Work meetings make me so anxious, I feel like hiding.",2023-01-31 20:40:51,Winter,-0.06,neutral
+t3_881545,r/BipolarReddit,I feel overwhelmed today,Maybe things will turn out okay.,2023-06-18 13:07:59,Summer,-0.31,negative
+t3_352528,r/mentalhealth,Coping mechanisms that work,Maybe things will turn out okay.,2023-12-09 01:03:55,Winter,0.75,positive
+t3_642919,r/mentalhealth,Why is nobody talking to me?,Getting out of bed is a challenge lately.,2023-07-29 11:40:19,Summer,-0.54,negative
+t3_366929,r/BipolarReddit,Anxious about work,I can't focus and everything feels heavy.,2023-01-27 13:28:00,Winter,0.2,positive
+t3_624370,r/SuicideWatch,Winter makes it worse,I smiled today for the first time in weeks.,2023-05-11 06:29:54,Spring,0.9,positive
+t3_776221,r/Anxiety,Therapy helped me today,Deep breaths and journaling are helping.,2023-05-13 19:17:57,Spring,-0.25,negative
+t3_153967,r/depression,Finally had a good day,Getting out of bed is a challenge lately.,2023-10-13 23:56:41,Fall,-0.49,negative
+t3_712387,r/depression,Why is nobody talking to me?,Getting out of bed is a challenge lately.,2023-09-03 05:01:50,Fall,0.91,positive
+t3_995988,r/Anxiety,Anxious about work,Getting out of bed is a challenge lately.,2023-01-04 12:38:54,Winter,-0.72,negative
+t3_524155,r/BipolarReddit,Feeling numb,Deep breaths and journaling are helping.,2023-10-07 06:51:47,Fall,-0.8,negative
+t3_255065,r/depression,Anxious about work,No emotions left. Just blank.,2023-03-26 21:27:29,Spring,0.26,positive
+t3_495749,r/SuicideWatch,Hopeful for the future,Deep breaths and journaling are helping.,2023-04-14 10:23:25,Spring,-0.26,negative
+t3_141996,r/depression,Anxious about work,Getting out of bed is a challenge lately.,2023-10-30 10:16:52,Fall,0.0,neutral
+t3_379288,r/BipolarReddit,Finally had a good day,Getting out of bed is a challenge lately.,2023-09-25 17:15:54,Fall,-0.23,negative
+t3_733763,r/SuicideWatch,Winter makes it worse,No emotions left. Just blank.,2023-04-10 23:24:52,Spring,0.28,positive
+t3_541215,r/mentalhealth,Finally had a good day,My therapist said something that really stuck with me.,2023-02-13 00:35:43,Winter,0.46,positive
+t3_193654,r/Anxiety,Struggling with motivation,No emotions left. Just blank.,2023-01-05 00:58:26,Winter,-0.77,negative
+t3_937905,r/Anxiety,Why is nobody talking to me?,Getting out of bed is a challenge lately.,2023-11-10 21:01:31,Fall,-0.39,negative
+t3_568348,r/mentalhealth,Anxious about work,I smiled today for the first time in weeks.,2023-11-12 19:22:36,Fall,0.7,positive
+t3_454511,r/mentalhealth,Winter makes it worse,Deep breaths and journaling are helping.,2023-06-30 04:02:46,Summer,-0.76,negative
+t3_756632,r/SuicideWatch,Finally had a good day,I can't focus and everything feels heavy.,2023-03-06 07:55:00,Spring,-0.78,negative
+t3_292199,r/SuicideWatch,Winter makes it worse,The cold weather always brings me down.,2023-02-19 23:31:06,Winter,-0.57,negative
+t3_115722,r/SuicideWatch,I feel overwhelmed today,I wish someone noticed how quiet I've become.,2023-09-21 20:20:02,Fall,0.69,positive
+t3_562549,r/SuicideWatch,Coping mechanisms that work,I can't focus and everything feels heavy.,2023-09-16 10:12:12,Fall,-0.18,negative
+t3_720337,r/SuicideWatch,Hopeful for the future,I wish someone noticed how quiet I've become.,2023-05-27 23:06:25,Spring,-0.55,negative
+t3_924047,r/depression,Winter makes it worse,Maybe things will turn out okay.,2023-03-27 21:40:44,Spring,-0.07,neutral
+t3_619689,r/mentalhealth,Finally had a good day,I can't focus and everything feels heavy.,2023-09-17 11:54:13,Fall,-0.71,negative
+t3_614049,r/depression,Struggling with motivation,No emotions left. Just blank.,2023-02-18 22:04:36,Winter,0.38,positive
+t3_841128,r/Anxiety,I feel overwhelmed today,I can't focus and everything feels heavy.,2023-10-21 10:31:30,Fall,0.6,positive
+t3_159296,r/mentalhealth,Struggling with motivation,I can't focus and everything feels heavy.,2023-12-03 11:29:27,Winter,0.33,positive
+t3_831276,r/depression,I feel overwhelmed today,I smiled today for the first time in weeks.,2023-12-01 04:15:07,Winter,0.94,positive
+t3_974696,r/mentalhealth,Struggling with motivation,No emotions left. Just blank.,2023-02-21 07:18:09,Winter,-0.96,negative
+t3_227634,r/mentalhealth,Winter makes it worse,I wish someone noticed how quiet I've become.,2023-08-13 21:41:20,Summer,-0.38,negative
+t3_998307,r/depression,Struggling with motivation,The cold weather always brings me down.,2023-05-04 00:59:47,Spring,0.02,neutral
+t3_763540,r/depression,Winter makes it worse,My therapist said something that really stuck with me.,2023-12-25 22:12:48,Winter,-0.37,negative
+t3_406822,r/BipolarReddit,I feel overwhelmed today,I wish someone noticed how quiet I've become.,2023-03-23 17:36:43,Spring,-0.63,negative
+t3_404980,r/Anxiety,Therapy helped me today,Deep breaths and journaling are helping.,2023-10-16 15:21:18,Fall,-0.99,negative
+t3_173583,r/SuicideWatch,Why is nobody talking to me?,My therapist said something that really stuck with me.,2023-05-22 12:27:25,Spring,0.37,positive
+t3_935999,r/Anxiety,Finally had a good day,No emotions left. Just blank.,2023-07-26 08:24:28,Summer,0.42,positive
+t3_823532,r/depression,Anxious about work,I smiled today for the first time in weeks.,2023-02-10 23:20:37,Winter,0.48,positive
+t3_687977,r/Anxiety,Feeling numb,Getting out of bed is a challenge lately.,2023-10-28 22:58:02,Fall,0.65,positive
+t3_137870,r/mentalhealth,Feeling numb,Getting out of bed is a challenge lately.,2023-07-01 18:20:46,Summer,-0.67,negative
+t3_784318,r/BipolarReddit,Hopeful for the future,I wish someone noticed how quiet I've become.,2023-06-23 15:07:36,Summer,-0.79,negative
+t3_413550,r/mentalhealth,Winter makes it worse,Deep breaths and journaling are helping.,2023-01-31 16:46:05,Winter,0.52,positive
+t3_211586,r/depression,Struggling with motivation,"Work meetings make me so anxious, I feel like hiding.",2023-08-20 23:18:29,Summer,-0.49,negative
+t3_146931,r/mentalhealth,Anxious about work,Maybe things will turn out okay.,2023-10-20 10:53:54,Fall,0.02,neutral
+t3_917817,r/BipolarReddit,Therapy helped me today,Getting out of bed is a challenge lately.,2023-04-13 20:28:02,Spring,0.54,positive
+t3_178269,r/Anxiety,Why is nobody talking to me?,My therapist said something that really stuck with me.,2023-04-24 11:27:46,Spring,-0.1,neutral
+t3_124416,r/BipolarReddit,Finally had a good day,"Work meetings make me so anxious, I feel like hiding.",2023-04-06 04:45:00,Spring,-0.09,neutral
